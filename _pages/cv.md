@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science for Societal Challenges and Innovation, Università di Padova, XXXIX series (ongoing)
+  * Project: "Deep Learning-Based Architectures for Semantics Discovery of Entities and Events"
+  * Funded by: HORIZON-MSCA-2021-DN-01-01, project n. 101072488
+  * Supervisor: Alessandro Sperduti
+  * Co-supervisor: A. Paoli
 
-Work experience
+Research Focus
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+My research focuses on developing deep learning architectures that address the challenge of processing and understanding multimedia data—images, videos, texts, and audio. The project aims to bridge the gap between multimedia representation and machine perception of entities, their semantic meanings, and interconnected events.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Key objectives include:
+* Developing architectures that link visual entities in images and textual descriptions to knowledge databases
+* Enabling semantic descriptions through ontology
+* Enhancing a robot's ability to interpret and communicate its understanding of the environment
+* Improving multimedia data processing and semantic understanding for better human-robot interactions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Multimedia Data Processing
+* Semantic Analysis
+* Knowledge Representation
+* Robotics
 
-Publications
+Professional Affiliations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* TRAIL Doctoral Network (Università di Padova, Cranfield University, ECAM LaSalle)
+* Human Inspired Technology Research Centre, University of Padova
+* Department of Mathematics "Tullio Levi-Civita", University of Padova
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: belkoerrolyanis.diallo@studenti.unipd.it
+* Office: 3CD3 (ex InfLab)
+* Phone: 049 827 1321
+* Academic Profile: [Human Inspired Technology Research Centre](http://hit.psy.unipd.it/diallo-yanis)
+* Department: [Department of Mathematics "Tullio Levi-Civita"](https://www.math.unipd.it/dipartimento/persone/belko_errol_yanis.diallo/)
+* LinkedIn: [yanisdiallo](https://www.linkedin.com/in/yanisdiallo)
