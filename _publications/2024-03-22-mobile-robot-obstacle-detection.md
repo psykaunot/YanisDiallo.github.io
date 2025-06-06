@@ -1,9 +1,9 @@
 ---
 title: "Mobile Robot Obstacle Detection and Avoidance with NAV-YOLO"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-03-22-mobile-robot-obstacle-detection
-excerpt: 'This paper proposes a vision-based navigation model that integrates a pre-trained YOLOv5 object detection model into a Robot Operating System (ROS) navigation stack to optimize obstacle detection and avoidance in a complex environment.'
+excerpt: 'This paper proposes a vision-based navigation model that integrates a pre-trained YOLOv5 object detection model into a Robot Operating System (ROS) navigation stack to optimize obstacle detection and avoidance in a complex environment. The paper received the Best Paper Presentation award at the 11th ICCMA 2023 conference.'
 date: 2024-03-22
 venue: 'International Journal of Mechanical Engineering and Robotics Research'
 paperurl: 'https://psykaunot.github.io/YanisDiallo.github.io/files/Mobile_robot_obstacle_detection-2024.pdf'
@@ -17,6 +17,10 @@ Intelligent robotics is gaining significance in Maintenance, Repair, and Overhau
 ## Keywords
 
 autonomous navigation, object detection, obstacle avoidance, mobile robot, deep learning
+
+## Conference Presentation
+
+This paper was presented at the 11th International Conference on Control, Mechatronics and Automation (ICCMA 2023) and received the Best Paper Presentation award. The conference was held in 2023, while the paper was published in the International Journal of Mechanical Engineering and Robotics Research in March 2024.
 
 [Download paper here](https://psykaunot.github.io/YanisDiallo.github.io/files/Mobile_robot_obstacle_detection-2024.pdf)
 
