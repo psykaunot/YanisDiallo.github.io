@@ -1,13 +1,12 @@
 ---
 title: "Deep Learning-Based Architectures for Semantics Discovery of Entities and Events"
 collection: publications
-category: conferences
+category: talks
 permalink: /publication/2024-09-10-deep-learning-semantics-discovery
 excerpt: 'Presentation at the Workshop on Explainable AI in Human-Robot Interaction at ICANN 2024, focusing on deep learning architectures for semantics discovery of entities and events in multimedia data.'
 date: 2024-09-10
 venue: 'Workshop on Explainable AI in Human-Robot Interaction, ICANN 2024, Lugano, Switzerland'
 paperurl: 'https://psykaunot.github.io/YanisDiallo.github.io/files/ICANN2024ConferenceBooklet.pdf'
-citation: 'Diallo, Y. (2024). Deep Learning-Based Architectures for Semantics Discovery of Entities and Events. Workshop on Explainable AI in Human-Robot Interaction, ICANN 2024, Lugano, Switzerland.'
 ---
 
 ## Workshop on Explainable AI in Human-Robot Interaction

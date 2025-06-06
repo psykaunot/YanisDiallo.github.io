@@ -14,12 +14,11 @@ Education
 * PhD in Computer Science for Societal Challenges and Innovation, Università di Padova, XXXIX series (ongoing)
   * Project: "Deep Learning-Based Architectures for Semantics Discovery of Entities and Events"
   * Funded by: HORIZON-MSCA-2021-DN-01-01, project n. 101072488, [TRAIL](https://www.inf.uni-hamburg.de/research/projects/trail/overview.html)
-  * Supervisor: Alessandro Sperduti
+  * Supervisor: [Alessandro Sperduti](https://scholar.google.com/citations?user=JsExaWMAAAAJ&hl=en)
 
 * MSc in Robotics, Cranfield University, UK (October 2022 - December 2023)
-  * Overall Grade: Upper Second-Class Honours (2:1) Degree
   * Modules: Fundamentals of Robotics, Robotics Control, AI & ML for Robotics, Programming Methods, Human-Robot Interaction, Machine Vision, Autonomy in Robotic Systems, Psychology, Ethics, and Standards
-  * Group Project: Smart Hangar Robotics Mobility (Project Manager) - Localisation of a mobile robot in featureless environment using C++, ROS, Python, SolidWorks, GitLab
+  * Group Project: Smart Hangar Robotics Mobility - Localisation of a mobile robot in featureless environment using C++, ROS, Python, SolidWorks, GitLab
   * Thesis (Grade 75): Optimized obstacle avoidance using a hybrid navigation framework with YOLOv7, C++, ROS, Linux, GitHub
   * Research Paper (co-author): Mobile Robot Obstacle Detection and Avoidance with NAV-YOLO. The paper received the Best Paper Presentation award at the 11th ICCMA 2023 conference
 
@@ -52,8 +51,8 @@ Key objectives include:
 
 Skills
 ======
-* Languages: French (Native), English (Proficient – IELTS 7.5), Spanish (Intermediate)
-* Engineering Skills: C++, Python, Java, Matlab, GitHub, ROS, ABB Robot Studio, Creo PTC
+* Languages: French (Native), English (Proficient – IELTS 7.5), Spanish (Intermediate), Italian (Intermediate)
+* Engineering Skills: C++, Python, Matlab, GitHub, ROS & ROS2, ABB Robot Studio, HuggingFace, Ollama
 * Interests: Basketball, Football, Psychoanalysis, Chess, Geopolitics
 
 Volunteering
