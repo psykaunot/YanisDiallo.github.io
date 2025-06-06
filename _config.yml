@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Yanis Diallo"
 title_separator          : "-"
 name                     : &name "Yanis Diallo"
-description              : &description "Robotics Doctoral Candidate in the TRAIL Doctoral Network (Università di Padova, Cranfield University, ECAM LaSalle)."
+description              : &description "PhD Candidate in Computer Science for Societal Challenges and Innovation, TRAIL Doctoral Network (Università di Padova)."
 url                      : https://psykaunot.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psykaunot/YanisDiallo.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "Padova, Italy"
   employer         : "Università di Padova"
   uri              : "http://hit.psy.unipd.it/diallo-yanis"
-  email            : "belkoerrolyanis.diallo@studenti.unipd.it" 
+  email            : "ydiallo@math.unipd.it" 
 
   # Academic websites
   academia         : # URL

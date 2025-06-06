@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD Candidate in Computer Science for Societal Challenges and Innovation (XXXIX series) at the University of Padova, Italy. My research is funded by the HORIZON-MSCA-2021-DN-01-01 program, project n. 101072488.
+I am a PhD Candidate in Computer Science for Societal Challenges and Innovation (XXXIX series) at the University of Padova, Italy. My research is funded by the HORIZON-MSCA-2021-DN-01-01 program, project n. 101072488, as part of the [TRAIL Doctoral Network](https://www.inf.uni-hamburg.de/research/projects/trail/overview.html).
 
 ## Research Focus
 
@@ -21,20 +21,21 @@ Advancements in this field will improve multimedia data processing and semantic 
 
 ## Academic Background
 
-I am part of the TRAIL Doctoral Network, a collaboration between:
-- Università di Padova
-- Cranfield University
-- ECAM LaSalle
+I hold the following degrees:
+- PhD Candidate in Computer Science for Societal Challenges and Innovation, Università di Padova (ongoing)
+- MSc in Robotics, Cranfield University, UK (2022-2023)
+- MSc in Mechanical and Electrical Engineering with Robotics Specialization, ECAM LaSalle, France (2018-2023)
 
 ## Supervision
 
 - **Supervisor**: Alessandro Sperduti
-- **Co-supervisor**: A. Paoli
 
 ## Contact Information
 
-- **Email**: belkoerrolyanis.diallo@studenti.unipd.it
+- **Email**: ydiallo@math.unipd.it, belkoerrolyanis.diallo@studenti.unipd.it
 - **Academic Profile**: [Human Inspired Technology Research Centre](http://hit.psy.unipd.it/diallo-yanis)
 - **Department**: [Department of Mathematics "Tullio Levi-Civita"](https://www.math.unipd.it/dipartimento/persone/belko_errol_yanis.diallo/)
 - **Office**: 3CD3 (ex InfLab)
 - **Phone**: 049 827 1321
+- **Personal**: +33(0)776882815, yaniserrol@outlook.com
+- **LinkedIn**: [yanisdiallo](https://www.linkedin.com/in/yanisdiallo)
